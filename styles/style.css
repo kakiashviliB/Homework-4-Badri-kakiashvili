@@ -116,7 +116,7 @@ ul{
 
 .infromation-html{
     color: #4E6FAE;
-    font-family: FiraGO;
+    font-family: "BPG Square", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -135,7 +135,7 @@ ul{
 
 .infromation-webdeveloper{
     color: #4E6FAE;
-    font-family: FiraGO;
+    font-family: "BPG Nino Mtavruli", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -149,7 +149,7 @@ ul{
 }
 
 .infromation-webdevelopment{
-    font-family: FiraGO;
+    font-family: "BPG Nostalgia", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -303,7 +303,7 @@ ul{
     margin-top: 31px;
 }
 
-.contact-infromation{
+.contact-infromation-container{
     display: inline-block;
     vertical-align: top;
 }
